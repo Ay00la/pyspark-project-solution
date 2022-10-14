@@ -1,5 +1,4 @@
-<u>Data Analysis With Pyspark</u>
-<br />
+###Data Analysis With Pyspark  
 We would be analyzing United States Census Bureau's 2017 Basic Monthly CPS, using Apache Spark (with preferably Python or Scala).
 Thoroughly read and follow the instructions for the task below. At the end, kindly share your code and snapshots of the data output via github.com:
 Step 1: Visit the United States Census Bureau website and access the 2017 Basic Monthly CPS page.
